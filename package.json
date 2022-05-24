@@ -33,7 +33,7 @@
   "types": "lib/index.d.ts",
   "dependencies": {
     "bignumber.js": "9.0.1",
-    "ethereumjs-abi": "git+https://github.com/ProjectWyvern/ethereumjs-abi.git",
+    "ethereumjs-abi": "^0.6.8",
     "ethereumjs-util": "^5.2.0",
     "fbemitter": "2.1.1",
     "isomorphic-unfetch": "^2.1.1",
